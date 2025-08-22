@@ -1,0 +1,4 @@
+baseURL = 'https://beardedbooknerd.com/'
+languageCode = 'en-us'
+title = 'beardedbooknerd'
+theme = 'ananke'
